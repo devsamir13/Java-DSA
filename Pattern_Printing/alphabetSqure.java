@@ -18,5 +18,7 @@ public class alphabetSqure {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
+  
