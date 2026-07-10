@@ -11,5 +11,6 @@ public class numbersqure {
             }
             System.out.println();
         }
+        sc.close();
     }
 }

@@ -12,5 +12,6 @@ public class raisePower {
             pow = pow*a;
         }
         System.out.println(pow);
+        sc.close();
     }
 }

@@ -10,5 +10,6 @@ public class factorialofnum {
             fact = fact * i;
         }
         System.out.println(fact);
+        sc.close();
     }
 }
